@@ -157,8 +157,8 @@ body {
 }
 
 body {
-    --custom-chatbar: separated !important; /* off: default chatbar, aligned: chatbar aligned with the user panel, separated: chatbar separated from chat */
-    --chatbar-height: 56px !important; /* height of the chatbar (52px by default, 47px recommended for aligned, 56px recommended for separated) */
+    --custom-chatbar: aligned !important; /* off: default chatbar, aligned: chatbar aligned with the user panel, separated: chatbar separated from chat */
+    --chatbar-height: 47px !important; /* height of the chatbar (52px by default, 47px recommended for aligned, 56px recommended for separated) */
 }
 
 .visual-refresh {
@@ -317,7 +317,7 @@ body {
         }
 
         .guilds__5e434::after {
-            content: '';
+            content: 'Servers';
         }
         .panels__5e434::after {
             content: '';
