@@ -317,29 +317,29 @@ body {
         }
 
         .guilds__5e434::after {
-            content: 'nav';
+            content: '';
         }
         .panels__5e434::after {
-            content: 'user';
+            content: '';
         }
         .sidebarList__5e434::after {
-            content: 'channels';
+            content: '';
         }
         .subtitleContainer_f75fb0::after {
-            content: 'channel';
+            content: '';
         }
         .messagesWrapper__36d07::after {
-            content: 'chat';
+            content: '';
         }
         .channelTextArea_f75fb0::after {
-            content: 'input';
+            content: '';
         }
         .container_c8ffbb::after,
         .content_f75fb0 > .membersWrap_c8ffbb::after {
-            content: 'members';
+            content: '';
         }
         .container__133bf > .container__9293f:after {
-            content: 'friends';
+            content: '';
         }
         .peopleColumn__133bf::after {
             content: 'list';
