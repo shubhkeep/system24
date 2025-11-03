@@ -318,7 +318,7 @@ body {
         }
 
         .guilds__5e434::after {
-            content: 'Servers';
+            content: '';
         }
         .panels__5e434::after {
             content: '';
